@@ -1,0 +1,9 @@
+asgiref==3.7.2
+dj-database-url==2.1.0
+Django
+environ==1.0
+environs==9.5.0
+marshmallow==3.19.0
+packaging==23.1
+psycopg2==2.9.7
+python-dotenv==0.21.1
